@@ -100,7 +100,7 @@ class UserCard extends HTMLElement {
         new CustomEvent("user-salute", {
 
           detail:{
-            message:"Saludos Alonso 👋"
+            message:"Saludos Alonso, Mejenga el Sábado a las 6:00 PM"
           },
 
           bubbles:true,
